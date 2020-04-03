@@ -5,6 +5,9 @@ Laravelを使用した飲食店検索LINE-Bot
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/592467/42dc3a7f-4253-8c25-8738-43abed1f44fe.png)
 
+また、こちらのID検索でも友達追加可能です。
+
+@936tslzm
 
 # DEMO
 1.検索結果の表示
